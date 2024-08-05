@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/scikit-build-core/
 License:	None
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(hatchling)
 BuildArch:	noarch
 
 %description
