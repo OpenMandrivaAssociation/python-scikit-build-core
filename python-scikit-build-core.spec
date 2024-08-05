@@ -8,6 +8,7 @@ License:	None
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(hatchling)
+BuildRequires:	python%{pyver}dist(hatch-vcs)
 BuildArch:	noarch
 
 %description
