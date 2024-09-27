@@ -1,5 +1,5 @@
 Name:		python-scikit-build-core
-Version:	0.10.5
+Version:	0.10.7
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/scikit-build-core/scikit_build_core-%{version}.tar.gz
 Summary:	Build backend for CMake based projects
